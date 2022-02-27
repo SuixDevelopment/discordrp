@@ -1,6 +1,6 @@
 Config = {}
 
-Config.AppID = 940689686551212112
+Config.AppID = 947594638385090611
 Config.ImageAsset = 'logo'
 Config.ImageAssetText = ''
 Config.ImageAssetSmall = ''
